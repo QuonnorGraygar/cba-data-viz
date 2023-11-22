@@ -7,7 +7,8 @@ This repository allows you to have your calculus readiness gauged based on your 
 If you are interested in this project and would like to learn more, please contact our research team:
 - Connor Gregor, Postdoctoral Fellow, Department of Mathematics and Statistics, McMaster University (gregoc9@mcmaster.ca)
 - Caroline Junkins, Assistant Professor, Department of Mathematics and Statistics, McMaster University (junkinc@mcmaster.ca)
-- Lindsey Daniels, Assistant Professor, Department of Mathematics, University of British Columbia (ldaniels@math.ubc.ca)
+- Lindsey Daniels, Assistant Professor of Teaching, Department of Mathematics, University of British Columbia (ldaniels@math.ubc.ca)
+
 
 In order to properly use this repository, it is recommended that you follow the steps as outlined below:
 
