@@ -1,9 +1,10 @@
 # Generating a Stat Block for the Calculus Baseline Assessment
 
-This repository allows you to have your calculus readiness gauged
-based on your performance on the calculus baseline assessment (CBA).
-In order to properly use this repository, it is recommended that you
-follow the steps as outlined below:
+In the preprint *Understanding Dimensions of Student Readiness from a Calculus Baseline Assessment through Semi-Automatic Text Analysis and Clustering*, we introduce a diagnostic tool that is intended to gauge the level of preparedness for students who are beginning their first undergraduate calculus course. The results gathered by this tool allow for the formation of a multi-dimensional view of student readiness through qualitative coding of ``explain your reasoning'' prompts that are paired with multiple choice questions. The codes are categorized into a taxonomy that gauge and observe various student behaviours. Manually coded responses are used as a training set for the fitting of a gradient boosting machine model, which automatically codes additional responses at a fixed cost. Compared against a manual coder's assessment of a held-out validation, the automatic coder averaged over $80\%$ matching accuracy. Using these qualitative codes as vector dimensions, $k$-clustering of student demographic allows for the visualization of theoretical student archetypes that exist within a large first-year undergraduate math class. These visualizations are made possible using spider plots.
+
+This repository allows you to have your calculus readiness gauged based on your performance on the calculus baseline assessment (CBA). Note that the machine learning models used to classify your text responses were trained on a dataset consisting of approximately 500 responses from a first year undergraduate course held during the 2022-2023 academic year at a large reserach-intensive public Canadian Univeristy. As such, the model may not be weel-tuned to responses outside of this specific context. 
+
+In order to properly use this repository, it is recommended that you follow the steps as outlined below:
 
 1. Read the `cba_files/cba_assessment.pdf`.
 2. Complete the assessment by drafting two files: `cba_example/cba_mc_submission.txt` and `cba_example/cba_text_submission.txt`.
