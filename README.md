@@ -9,6 +9,8 @@ If you are interested in this project and would like to learn more, please conta
 - Caroline Junkins, Assistant Professor, Department of Mathematics and Statistics, McMaster University (junkinc@mcmaster.ca)
 - Lindsey Daniels, Assistant Professor of Teaching, Department of Mathematics, University of British Columbia (ldaniels@math.ubc.ca)
 
+&nbsp;
+&nbsp;
 
 In order to properly use this repository, it is recommended that you follow the steps as outlined below:
 
@@ -17,3 +19,20 @@ In order to properly use this repository, it is recommended that you follow the 
 3. The file `cba_example/cba_mc_submission.txt` should be written as a string of twenty characters, each one sequentially describing the option you select for a CBA question.
 4. The file `cba_example/cba_text_submission.txt` should be written with `Q- ` at the start of each question. Be sure to have a linebreak before the start of each new question. Your text responses should describe your solution process for the question in plain language while relying as little as possible on mathematical formula.
 5. Once your files are completed, access `cba_plot_generator.ipynb` in order to automatically grade your CBA, have it assigned qualitative codes, and then have those data values returned to you as a spider plot.
+
+&nbsp;
+&nbsp;
+
+References:
+- Carlson, M., Oehrtman, M., & Engelke, N. (2010). The precalculus concept assessment: A
+tool for assessing students’ reasoning abilities and understandings. *Cognition and Instruction,
+28(2), 113-145.
+- Carlson, M.P., Madison, B. & West, R.D. A Study of Students’ Readiness to Learn Calculus.
+*Int. J. Res. Undergrad. Math. Ed.* 1, 209–233 (2015).
+- Carlson, M. O. Madison B. & West. R. D. The Calculus Concept Readiness (CCR) Instrument:
+Assessing Student Readiness for Calculus. *arXiv preprint arXiv:1010.2719* (2010).
+
+
+
+
+
