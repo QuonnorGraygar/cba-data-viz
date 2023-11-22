@@ -4,7 +4,10 @@ In the preprint *Understanding Dimensions of Student Readiness from a Calculus B
 
 This repository allows you to have your calculus readiness gauged based on your performance on the calculus baseline assessment (CBA). Note that the machine learning models used to classify your text responses were trained on a dataset consisting of approximately 500 responses from a first year undergraduate course held during the 2022-2023 academic year at a large reserach-intensive public Canadian Univeristy. As such, the model may not be well-tuned to responses outside of this specific context. 
 
-If you are interested in this project, and would like to learn more, please contact 
+If you are interested in this project and would like to learn more, please contact our research team:
+- Connor Gregor, Postdoctoral Fellow, Department of Mathematics and Statistics, McMaster University (gregoc9@mcmaster.ca)
+- Caroline Junkins, Assistant Professor, Department of Mathematics and Statistics, McMaster University (junkinc@mcmaster.ca)
+- Lindsey Daniels, Assistant Professor, Department of Mathematics, University of British Columbia (ldaniels@math.ubc.ca)
 
 In order to properly use this repository, it is recommended that you follow the steps as outlined below:
 
