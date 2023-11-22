@@ -26,7 +26,7 @@ In order to properly use this repository, it is recommended that you follow the 
 References:
 - Carlson, M., Oehrtman, M., & Engelke, N. (2010). The precalculus concept assessment: A
 tool for assessing students’ reasoning abilities and understandings. *Cognition and Instruction,
-28(2), 113-145.
+28(2),* 113-145.
 - Carlson, M.P., Madison, B. & West, R.D. A Study of Students’ Readiness to Learn Calculus.
 *Int. J. Res. Undergrad. Math. Ed.* 1, 209–233 (2015).
 - Carlson, M. O. Madison B. & West. R. D. The Calculus Concept Readiness (CCR) Instrument:
