@@ -32,7 +32,10 @@ tool for assessing students’ reasoning abilities and understandings. *Cognitio
 - Carlson, M. O. Madison B. & West. R. D. The Calculus Concept Readiness (CCR) Instrument:
 Assessing Student Readiness for Calculus. *arXiv preprint arXiv:1010.2719* (2010).
 
+&nbsp;
 
+This work was overseen by the McMaster Review Ethics Board (MREB\#: 6043) and University of British Columbia's Behavioural research ethics board (UBC BREB H22-02247) who carefully 
+reviewed our study and ensured the protocols are consistent with research ethics. 
 
 
 
